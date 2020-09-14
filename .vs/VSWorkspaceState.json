@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\test"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\index.js",
   "PreviewInSolutionExplorer": false
 }
